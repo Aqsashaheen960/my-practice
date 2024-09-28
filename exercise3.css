@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(171, 27, 207);
+}
+.main-div{
+    background-color: rgb(34, 32, 32);
+    padding: 40px;
+    margin: 40px;
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+    margin-left: 300px;
+    color: aliceblue;
+    
+}
+#first-name,#second-name{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    width: 30%;
+    text-align: left;
+}
+#Email{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    width: 90%;
+    text-align: left;
+}
+#address{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    width: 90%;
+    text-align: left;
+}
+button{
+    padding: 10px 20px 10px 20px;
+    margin-top: 60px;
+    margin-left: 200px;
+    border-radius: 20px;
+    background-color: red;
+    
+}
+h1{
+    text-align: center;
+}
